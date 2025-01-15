@@ -44,7 +44,7 @@ article
     width: 40px;
 }
 
-.main-author a
+.main-author figcaption 
 {
     text-decoration: none;
     color: #0066FF;
