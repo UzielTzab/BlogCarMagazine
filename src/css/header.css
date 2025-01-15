@@ -1,0 +1,42 @@
+
+/* IDENTIFICADORES */
+
+#header
+{ 
+    background-color: rgb(255, 255, 255);    
+    color: rgb(0, 0, 0);
+}
+#nav
+{
+    display: flex;
+    padding-left: 150px;
+    padding-right: 120px;
+    justify-content: space-between;
+    align-items: center;
+
+}
+#logo
+{
+    padding: 1rem;
+
+}
+.listOfMainNav
+{
+    display: flex;
+    list-style-type: none;
+    justify-content: center;
+
+
+}
+#accountIcon
+{
+    margin-right: 1rem ;
+    width: 20px;
+}
+
+/* CLASES */
+
+.itemOnlistOfMainNav
+{
+    padding: 1rem;
+}

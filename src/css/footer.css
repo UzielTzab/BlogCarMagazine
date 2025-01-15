@@ -1,0 +1,55 @@
+#footer
+{
+    background-color: rgb(238, 238, 238); 
+    margin-top: 40px;
+    padding:40px;
+}
+
+#NavMainFooter
+{
+   justify-content: center;
+   color: rgb(0, 0, 0);
+   height: 200px;
+ 
+}
+
+#fastMain
+{
+    justify-content: space-between;
+    padding: 40px;
+    width: auto;
+}
+
+#socialMedias
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+}
+
+#socialMediasIcons
+{
+   height: 80px;
+   padding: 1rem;
+}
+
+
+.listOfMainNavFooter
+{
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    list-style-type: none;
+}
+.listOfMainNavFooter a
+{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+.listOfMainNavFooter a:hover
+{
+    color: gray;
+}
